@@ -1,3 +1,18 @@
+# ⚠️ This project has been moved ⚠️
+
+https://github.com/secure-rm/core
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+
 <h1 align="center">
   <img src="./assets/secure-rm.png" alt="secure-rm">
   <br>
